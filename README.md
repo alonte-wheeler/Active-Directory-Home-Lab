@@ -15,7 +15,7 @@ This repository contains steps on how I set up a basic home lab running Active D
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b> (22H2)
 - <b>Windows Server 2019</b> (21H2)
 - <b>VirtualBox</b> (21H2)
 
