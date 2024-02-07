@@ -2,9 +2,9 @@
 
 
 <h2> Objective </h2>
-The goal of this project was to demonstrate an understanding of Active directory while setting up a virtual environment with 1000 users. This is similiar to something that would be established at an organization or school.
+The objective of this project is to simulate the deployment of Active Directory (AD) in a virtual environment with a significant number of users, similar to what would be encountered in a large organization or school. The focus will be on understanding the architecture of Active Directory, setting up a robust infrastructure, and efficiently managing a sizable user base (1k users).
 
-This repository contains steps on how I set up a basic home lab running Active Directory following a tutorial by Josh Madakor
+This repository contains steps on how I set up a basic home lab running Active Directory following a tutorial by Josh Madakor.
 <br />
 
 
